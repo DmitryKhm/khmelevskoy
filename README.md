@@ -1,4 +1,4 @@
-# jborn_web_xx_khmelevskoy-main
+#khmelevskoy
  java 8
  Db - postgreSql
  testDb - h2
